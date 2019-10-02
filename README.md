@@ -1,4 +1,4 @@
-# docker-sonarqube-custom
+# sonarqube-custom
 
 Docker with quality profile and quality gates according to your project.
 
